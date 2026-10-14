@@ -1,0 +1,6 @@
+@WebUberRideBookingSystem_HostAddress = http://localhost:5195
+
+GET {{WebUberRideBookingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
